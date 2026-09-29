@@ -1,0 +1,2 @@
+[{"cmd":"card","args":["批次一"],"highlight":"一","out":"b1.png","still":1.5,"opaque":true},
+ {"cmd":"transition","style":"line","out":"b2.png","still":0.3}]
